@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Suku",
+        "age": "22",
+        "phone": "7319390115",
+        "query": "I wannt to learn HTML CSS and JS",
+        "destination": "Warangal"
+    },
+    {
+        "name": "Ankita",
+        "age": "27",
+        "phone": "744646132146",
+        "query": "I want to learn Angular JS and Git and Git Hub",
+        "destination": "Bangalore"
+    }
+]
