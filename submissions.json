@@ -12,5 +12,26 @@
         "phone": "744646132146",
         "query": "I want to learn Angular JS and Git and Git Hub",
         "destination": "Bangalore"
+    },
+    {
+        "name": "Sikriti",
+        "age": "25",
+        "phone": "7319390115",
+        "query": "i want to learn facebook",
+        "destination": "hyd"
+    },
+    {
+        "name": "Himanshu",
+        "age": "28",
+        "phone": "76876431",
+        "query": "hkiu",
+        "destination": "klh "
+    },
+    {
+        "name": "wkjggsexy",
+        "age": "67",
+        "phone": "t889",
+        "query": "h,jh",
+        "email": "y89"
     }
 ]

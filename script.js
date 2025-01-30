@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
       age: document.getElementById('age').value,
       phone: document.getElementById('phone').value,
       query: document.getElementById('query').value,
-      destination: document.getElementById('destination').value,
+      email: document.getElementById('email').value,
     };
 
     // Log the form data to the console for debugging
@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
       <p><strong>Age:</strong> ${data.age}</p>
       <p><strong>Phone Number:</strong> ${data.phone}</p>
       <p><strong>Query:</strong> ${data.query}</p>
-      <p><strong>Destination:</strong> ${data.destination}</p>
+      <p><strong>Email:</strong> ${data.email}</p>
     `;
 
     // Insert the HTML content into the display area
